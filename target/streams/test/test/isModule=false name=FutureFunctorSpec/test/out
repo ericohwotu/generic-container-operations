@@ -1,5 +1,0 @@
-[info] FutureFunctorSpec:
-[info] NestedValueOps[Future, Option, T]
-[info] - must perform all operation
-[info] - must stop at the first call if that returns an Option.empty[T]
-[info] - must stop at the second call if that returns an Option.empty[T]

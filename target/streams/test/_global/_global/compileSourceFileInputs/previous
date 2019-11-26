@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.10":{"hashes":[["/Users/ericohwotu/Development/hmrc-development-environment/ddct/va-sa20/some-test/src/test/scala/FutureFunctorSpec.scala","527167d4ed44c35af26625e678745a682f101d4e"]],"lastModifiedTimes":[]}}]

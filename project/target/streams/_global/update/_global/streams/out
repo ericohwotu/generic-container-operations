@@ -1,0 +1,3 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/Users/ericohwotu/Development/hmrc-development-environment/ddct/va-sa20/some-test/project/"), "some-test-build")...
+[debug] Done updating ProjectRef(uri("file:/Users/ericohwotu/Development/hmrc-development-environment/ddct/va-sa20/some-test/project/"), "some-test-build")
